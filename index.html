@@ -106,7 +106,10 @@
                     return c1 - c2;
                 });
                 res.forEach(e => {
-                    $("#result").append(e.title + " / " + e.yomi);
+                    var c1 = e.yomi.charAt(e.yomi.length - 1) != "ー" ?
+                        e.yomi.charAt(e.yomi.length - 1) :
+                        e.yomi.charAt(e.yomi.length - 2);
+                    $("#result").append(c1 + " / " + e.title + " / " + e.yomi);
                     $("#result").append($("<br>"));
                 });
             }
