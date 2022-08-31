@@ -71,19 +71,19 @@
                     continue;
                 }
                 $("#keys").append(key + " ");
-                for (var len = 2; len < 31; len++) {
+                for (var len = 2; len < 40; len++) {
                     //
                     console.log(key + len);
                     if (existChk(key, len)) {
                         $("#keys").append($("<a>", {
-                            text: "(" + len + ")",
+                            text: "" + len + "",
                             title: key + "(" + len + ")",
                             href: 'javascript: searchThenUpdate("' + key + '",' + len + ")"
                         }));
                     } else {
                         //$("#keys").append("(" + len + ")");
                         $("#keys").append($("<span>", {
-                            text: "(" + len + ")"
+                            text: "" + len + ""
                         }));
                     }
                     $("#keys").append(" / ");
@@ -96,6 +96,15 @@
             $("#result").html("");
             var res = search(key, len);
             if (res.length > 0) {
+                res.sort(function(a, b) {
+                    var c1 = a.yomi.charAt(a.yomi.length - 1) != "ー" ?
+                        a.yomi.charCodeAt(a.yomi.length - 1) :
+                        a.yomi.charCodeAt(a.yomi.length - 2);
+                    var c2 = b.yomi.charAt(b.yomi.length - 1) != "ー" ?
+                        b.yomi.charCodeAt(b.yomi.length - 1) :
+                        b.yomi.charCodeAt(b.yomi.length - 2);
+                    return c1 - c2;
+                });
                 res.forEach(e => {
                     $("#result").append(e.title + " / " + e.yomi);
                     $("#result").append($("<br>"));
