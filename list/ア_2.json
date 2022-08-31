@@ -1,0 +1,957 @@
+[
+    {
+        "title": "アー",
+        "yomi": "アー",
+        "len": 2
+    },
+    {
+        "title": "A",
+        "yomi": "アー",
+        "len": 2
+    },
+    {
+        "title": "А",
+        "yomi": "アー",
+        "len": 2
+    },
+    {
+        "title": "AHHHHH!",
+        "yomi": "アー",
+        "len": 2
+    },
+    {
+        "title": "ああ",
+        "yomi": "アア",
+        "len": 2
+    },
+    {
+        "title": "あぁ",
+        "yomi": "アァ",
+        "len": 2
+    },
+    {
+        "title": "アア",
+        "yomi": "アア",
+        "len": 2
+    },
+    {
+        "title": "嗚呼!",
+        "yomi": "アア",
+        "len": 2
+    },
+    {
+        "title": "AH(嗚呼)",
+        "yomi": "アア",
+        "len": 2
+    },
+    {
+        "title": "アヌ",
+        "yomi": "アヌ",
+        "len": 2
+    },
+    {
+        "title": "アイ",
+        "yomi": "アイ",
+        "len": 2
+    },
+    {
+        "title": "I (曖昧さ回避)",
+        "yomi": "アイ",
+        "len": 2
+    },
+    {
+        "title": "I",
+        "yomi": "アイ",
+        "len": 2
+    },
+    {
+        "title": "AI (歌手)",
+        "yomi": "アイ",
+        "len": 2
+    },
+    {
+        "title": "埃 (数)",
+        "yomi": "アイ",
+        "len": 2
+    },
+    {
+        "title": "愛 (曖昧さ回避)",
+        "yomi": "アイ",
+        "len": 2
+    },
+    {
+        "title": "藍",
+        "yomi": "アイ",
+        "len": 2
+    },
+    {
+        "title": "愛衣",
+        "yomi": "アイ",
+        "len": 2
+    },
+    {
+        "title": "亜惟",
+        "yomi": "アイ",
+        "len": 2
+    },
+    {
+        "title": "あお",
+        "yomi": "アオ",
+        "len": 2
+    },
+    {
+        "title": "青",
+        "yomi": "アオ",
+        "len": 2
+    },
+    {
+        "title": "藍",
+        "yomi": "アオ",
+        "len": 2
+    },
+    {
+        "title": "アカ",
+        "yomi": "アカ",
+        "len": 2
+    },
+    {
+        "title": "朱 -Aka-",
+        "yomi": "アカ",
+        "len": 2
+    },
+    {
+        "title": "朱-AKA-",
+        "yomi": "アカ",
+        "len": 2
+    },
+    {
+        "title": "亜科",
+        "yomi": "アカ",
+        "len": 2
+    },
+    {
+        "title": "赤",
+        "yomi": "アカ",
+        "len": 2
+    },
+    {
+        "title": "垢",
+        "yomi": "アカ",
+        "len": 2
+    },
+    {
+        "title": "閼伽",
+        "yomi": "アカ",
+        "len": 2
+    },
+    {
+        "title": "阿賀",
+        "yomi": "アガ",
+        "len": 2
+    },
+    {
+        "title": "英賀",
+        "yomi": "アガ",
+        "len": 2
+    },
+    {
+        "title": "あき",
+        "yomi": "アキ",
+        "len": 2
+    },
+    {
+        "title": "アキ",
+        "yomi": "アキ",
+        "len": 2
+    },
+    {
+        "title": "AKI",
+        "yomi": "アキ",
+        "len": 2
+    },
+    {
+        "title": "Aki",
+        "yomi": "アキ",
+        "len": 2
+    },
+    {
+        "title": "AKi",
+        "yomi": "アキ",
+        "len": 2
+    },
+    {
+        "title": "Aky",
+        "yomi": "アキ",
+        "len": 2
+    },
+    {
+        "title": "空 (曖昧さ回避)",
+        "yomi": "アキ",
+        "len": 2
+    },
+    {
+        "title": "秋",
+        "yomi": "アキ",
+        "len": 2
+    },
+    {
+        "title": "安芸",
+        "yomi": "アキ",
+        "len": 2
+    },
+    {
+        "title": "アギ",
+        "yomi": "アギ",
+        "len": 2
+    },
+    {
+        "title": "アク",
+        "yomi": "アク",
+        "len": 2
+    },
+    {
+        "title": "悪",
+        "yomi": "アク",
+        "len": 2
+    },
+    {
+        "title": "灰汁",
+        "yomi": "アク",
+        "len": 2
+    },
+    {
+        "title": "あげ",
+        "yomi": "アゲ",
+        "len": 2
+    },
+    {
+        "title": "安芸",
+        "yomi": "アゲ",
+        "len": 2
+    },
+    {
+        "title": "アコ",
+        "yomi": "アコ",
+        "len": 2
+    },
+    {
+        "title": "ACO",
+        "yomi": "アコ",
+        "len": 2
+    },
+    {
+        "title": "AKO",
+        "yomi": "アコ",
+        "len": 2
+    },
+    {
+        "title": "亜湖",
+        "yomi": "アコ",
+        "len": 2
+    },
+    {
+        "title": "あご",
+        "yomi": "アゴ",
+        "len": 2
+    },
+    {
+        "title": "安居 (曖昧さ回避)",
+        "yomi": "アゴ",
+        "len": 2
+    },
+    {
+        "title": "顎",
+        "yomi": "アゴ",
+        "len": 2
+    },
+    {
+        "title": "阿児",
+        "yomi": "アゴ",
+        "len": 2
+    },
+    {
+        "title": "アサ",
+        "yomi": "アサ",
+        "len": 2
+    },
+    {
+        "title": "麻",
+        "yomi": "アサ",
+        "len": 2
+    },
+    {
+        "title": "朝",
+        "yomi": "アサ",
+        "len": 2
+    },
+    {
+        "title": "亜沙",
+        "yomi": "アサ",
+        "len": 2
+    },
+    {
+        "title": "安佐",
+        "yomi": "アサ",
+        "len": 2
+    },
+    {
+        "title": "厚狭",
+        "yomi": "アサ",
+        "len": 2
+    },
+    {
+        "title": "字 (曖昧さ回避)",
+        "yomi": "アザ",
+        "len": 2
+    },
+    {
+        "title": "痣",
+        "yomi": "アザ",
+        "len": 2
+    },
+    {
+        "title": "あし",
+        "yomi": "アシ",
+        "len": 2
+    },
+    {
+        "title": "アシ",
+        "yomi": "アシ",
+        "len": 2
+    },
+    {
+        "title": "足",
+        "yomi": "アシ",
+        "len": 2
+    },
+    {
+        "title": "芦",
+        "yomi": "アシ",
+        "len": 2
+    },
+    {
+        "title": "葦",
+        "yomi": "アシ",
+        "len": 2
+    },
+    {
+        "title": "蘆",
+        "yomi": "アシ",
+        "len": 2
+    },
+    {
+        "title": "葭",
+        "yomi": "アシ",
+        "len": 2
+    },
+    {
+        "title": "脚",
+        "yomi": "アシ",
+        "len": 2
+    },
+    {
+        "title": "アシ!",
+        "yomi": "アシ",
+        "len": 2
+    },
+    {
+        "title": "アジ",
+        "yomi": "アジ",
+        "len": 2
+    },
+    {
+        "title": "AJI",
+        "yomi": "アジ",
+        "len": 2
+    },
+    {
+        "title": "味",
+        "yomi": "アジ",
+        "len": 2
+    },
+    {
+        "title": "按司",
+        "yomi": "アジ",
+        "len": 2
+    },
+    {
+        "title": "As",
+        "yomi": "アス",
+        "len": 2
+    },
+    {
+        "title": "As",
+        "yomi": "アス",
+        "len": 2
+    },
+    {
+        "title": "アス",
+        "yomi": "アス",
+        "len": 2
+    },
+    {
+        "title": "明日",
+        "yomi": "アス",
+        "len": 2
+    },
+    {
+        "title": "AZU",
+        "yomi": "アズ",
+        "len": 2
+    },
+    {
+        "title": "アズ",
+        "yomi": "アズ",
+        "len": 2
+    },
+    {
+        "title": "安須 (市原市)",
+        "yomi": "アズ",
+        "len": 2
+    },
+    {
+        "title": "汗",
+        "yomi": "アセ",
+        "len": 2
+    },
+    {
+        "title": "畦",
+        "yomi": "アゼ",
+        "len": 2
+    },
+    {
+        "title": "あそ",
+        "yomi": "アソ",
+        "len": 2
+    },
+    {
+        "title": "阿蘇",
+        "yomi": "アソ",
+        "len": 2
+    },
+    {
+        "title": "アゾ",
+        "yomi": "アゾ",
+        "len": 2
+    },
+    {
+        "title": "咫",
+        "yomi": "アタ",
+        "len": 2
+    },
+    {
+        "title": "アダ",
+        "yomi": "アダ",
+        "len": 2
+    },
+    {
+        "title": "阿知",
+        "yomi": "アチ",
+        "len": 2
+    },
+    {
+        "title": "あつ",
+        "yomi": "アツ",
+        "len": 2
+    },
+    {
+        "title": "あッ",
+        "yomi": "アッ",
+        "len": 2
+    },
+    {
+        "title": "アテ",
+        "yomi": "アテ",
+        "len": 2
+    },
+    {
+        "title": "アト",
+        "yomi": "アト",
+        "len": 2
+    },
+    {
+        "title": "阿斗",
+        "yomi": "アト",
+        "len": 2
+    },
+    {
+        "title": "阿戸",
+        "yomi": "アト",
+        "len": 2
+    },
+    {
+        "title": "跡",
+        "yomi": "アト",
+        "len": 2
+    },
+    {
+        "title": "痕",
+        "yomi": "アト",
+        "len": 2
+    },
+    {
+        "title": "アド",
+        "yomi": "アド",
+        "len": 2
+    },
+    {
+        "title": "安曇",
+        "yomi": "アド",
+        "len": 2
+    },
+    {
+        "title": "アナ",
+        "yomi": "アナ",
+        "len": 2
+    },
+    {
+        "title": "あに",
+        "yomi": "アニ",
+        "len": 2
+    },
+    {
+        "title": "アニ",
+        "yomi": "アニ",
+        "len": 2
+    },
+    {
+        "title": "ANI",
+        "yomi": "アニ",
+        "len": 2
+    },
+    {
+        "title": "兄",
+        "yomi": "アニ",
+        "len": 2
+    },
+    {
+        "title": "姉",
+        "yomi": "アネ",
+        "len": 2
+    },
+    {
+        "title": "アハ",
+        "yomi": "アハ",
+        "len": 2
+    },
+    {
+        "title": "ABBA",
+        "yomi": "アバ",
+        "len": 2
+    },
+    {
+        "title": "アバ",
+        "yomi": "アバ",
+        "len": 2
+    },
+    {
+        "title": "阿波",
+        "yomi": "アバ",
+        "len": 2
+    },
+    {
+        "title": "網場",
+        "yomi": "アバ",
+        "len": 2
+    },
+    {
+        "title": "APA",
+        "yomi": "アパ",
+        "len": 2
+    },
+    {
+        "title": "アパ",
+        "yomi": "アパ",
+        "len": 2
+    },
+    {
+        "title": "アヒ",
+        "yomi": "アヒ",
+        "len": 2
+    },
+    {
+        "title": "アビ",
+        "yomi": "アビ",
+        "len": 2
+    },
+    {
+        "title": "アピ",
+        "yomi": "アピ",
+        "len": 2
+    },
+    {
+        "title": "あぶ",
+        "yomi": "アブ",
+        "len": 2
+    },
+    {
+        "title": "アブ",
+        "yomi": "アブ",
+        "len": 2
+    },
+    {
+        "title": "安部",
+        "yomi": "アブ",
+        "len": 2
+    },
+    {
+        "title": "襾部",
+        "yomi": "アブ",
+        "len": 2
+    },
+    {
+        "title": "虻",
+        "yomi": "アブ",
+        "len": 2
+    },
+    {
+        "title": "アベ",
+        "yomi": "アベ",
+        "len": 2
+    },
+    {
+        "title": "AVE",
+        "yomi": "アベ",
+        "len": 2
+    },
+    {
+        "title": "阿部",
+        "yomi": "アベ",
+        "len": 2
+    },
+    {
+        "title": "阿倍",
+        "yomi": "アベ",
+        "len": 2
+    },
+    {
+        "title": "安倍",
+        "yomi": "アベ",
+        "len": 2
+    },
+    {
+        "title": "安部",
+        "yomi": "アベ",
+        "len": 2
+    },
+    {
+        "title": "安辺",
+        "yomi": "アベ",
+        "len": 2
+    },
+    {
+        "title": "あほ",
+        "yomi": "アホ",
+        "len": 2
+    },
+    {
+        "title": "アホ",
+        "yomi": "アホ",
+        "len": 2
+    },
+    {
+        "title": "あぽ",
+        "yomi": "アポ",
+        "len": 2
+    },
+    {
+        "title": "アマ",
+        "yomi": "アマ",
+        "len": 2
+    },
+    {
+        "title": "天",
+        "yomi": "アマ",
+        "len": 2
+    },
+    {
+        "title": "尼",
+        "yomi": "アマ",
+        "len": 2
+    },
+    {
+        "title": "海人",
+        "yomi": "アマ",
+        "len": 2
+    },
+    {
+        "title": "海女",
+        "yomi": "アマ",
+        "len": 2
+    },
+    {
+        "title": "海士",
+        "yomi": "アマ",
+        "len": 2
+    },
+    {
+        "title": "海部",
+        "yomi": "アマ",
+        "len": 2
+    },
+    {
+        "title": "蜑家",
+        "yomi": "アマ",
+        "len": 2
+    },
+    {
+        "title": "あみ",
+        "yomi": "アミ",
+        "len": 2
+    },
+    {
+        "title": "アミ",
+        "yomi": "アミ",
+        "len": 2
+    },
+    {
+        "title": "網",
+        "yomi": "アミ",
+        "len": 2
+    },
+    {
+        "title": "阿弥",
+        "yomi": "アミ",
+        "len": 2
+    },
+    {
+        "title": "Ami (Dream)",
+        "yomi": "アミ",
+        "len": 2
+    },
+    {
+        "title": "AMI (非政府組織)",
+        "yomi": "アミ",
+        "len": 2
+    },
+    {
+        "title": "Amie",
+        "yomi": "アミ",
+        "len": 2
+    },
+    {
+        "title": "AM (恋愛情報サイト)",
+        "yomi": "アム",
+        "len": 2
+    },
+    {
+        "title": "あむ",
+        "yomi": "アム",
+        "len": 2
+    },
+    {
+        "title": "虻",
+        "yomi": "アム",
+        "len": 2
+    },
+    {
+        "title": "あめ",
+        "yomi": "アメ",
+        "len": 2
+    },
+    {
+        "title": "アメ",
+        "yomi": "アメ",
+        "len": 2
+    },
+    {
+        "title": "阿米",
+        "yomi": "アメ",
+        "len": 2
+    },
+    {
+        "title": "天 (曖昧さ回避)",
+        "yomi": "アメ",
+        "len": 2
+    },
+    {
+        "title": "雨",
+        "yomi": "アメ",
+        "len": 2
+    },
+    {
+        "title": "雨…",
+        "yomi": "アメ",
+        "len": 2
+    },
+    {
+        "title": "飴",
+        "yomi": "アメ",
+        "len": 2
+    },
+    {
+        "title": "アモ",
+        "yomi": "アモ",
+        "len": 2
+    },
+    {
+        "title": "AMO (モデル)",
+        "yomi": "アモ",
+        "len": 2
+    },
+    {
+        "title": "Aya",
+        "yomi": "アヤ",
+        "len": 2
+    },
+    {
+        "title": "AYA",
+        "yomi": "アヤ",
+        "len": 2
+    },
+    {
+        "title": "AYA -絢-",
+        "yomi": "アヤ",
+        "len": 2
+    },
+    {
+        "title": "亜矢",
+        "yomi": "アヤ",
+        "len": 2
+    },
+    {
+        "title": "綾",
+        "yomi": "アヤ",
+        "len": 2
+    },
+    {
+        "title": "彩",
+        "yomi": "アヤ",
+        "len": 2
+    },
+    {
+        "title": "彩 ～Aja～",
+        "yomi": "アヤ",
+        "len": 2
+    },
+    {
+        "title": "あゆ",
+        "yomi": "アユ",
+        "len": 2
+    },
+    {
+        "title": "アユ",
+        "yomi": "アユ",
+        "len": 2
+    },
+    {
+        "title": "東風",
+        "yomi": "アユ",
+        "len": 2
+    },
+    {
+        "title": "アラ",
+        "yomi": "アラ",
+        "len": 2
+    },
+    {
+        "title": "粗",
+        "yomi": "アラ",
+        "len": 2
+    },
+    {
+        "title": "あり",
+        "yomi": "アリ",
+        "len": 2
+    },
+    {
+        "title": "アリ",
+        "yomi": "アリ",
+        "len": 2
+    },
+    {
+        "title": "ALi",
+        "yomi": "アリ",
+        "len": 2
+    },
+    {
+        "title": "亜梨",
+        "yomi": "アリ",
+        "len": 2
+    },
+    {
+        "title": "螘",
+        "yomi": "アリ",
+        "len": 2
+    },
+    {
+        "title": "アル",
+        "yomi": "アル",
+        "len": 2
+    },
+    {
+        "title": "アレ",
+        "yomi": "アレ",
+        "len": 2
+    },
+    {
+        "title": "阿魯",
+        "yomi": "アロ",
+        "len": 2
+    },
+    {
+        "title": "あわ",
+        "yomi": "アワ",
+        "len": 2
+    },
+    {
+        "title": "アワ",
+        "yomi": "アワ",
+        "len": 2
+    },
+    {
+        "title": "泡",
+        "yomi": "アワ",
+        "len": 2
+    },
+    {
+        "title": "阿波",
+        "yomi": "アワ",
+        "len": 2
+    },
+    {
+        "title": "安房",
+        "yomi": "アワ",
+        "len": 2
+    },
+    {
+        "title": "あん",
+        "yomi": "アン",
+        "len": 2
+    },
+    {
+        "title": "アン",
+        "yomi": "アン",
+        "len": 2
+    },
+    {
+        "title": "AN",
+        "yomi": "アン",
+        "len": 2
+    },
+    {
+        "title": "An",
+        "yomi": "アン",
+        "len": 2
+    },
+    {
+        "title": "杏",
+        "yomi": "アン",
+        "len": 2
+    },
+    {
+        "title": "案",
+        "yomi": "アン",
+        "len": 2
+    },
+    {
+        "title": "餡",
+        "yomi": "アン",
+        "len": 2
+    },
+    {
+        "title": "庵",
+        "yomi": "アン",
+        "len": 2
+    }
+]

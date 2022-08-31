@@ -1,0 +1,122 @@
+<html>
+
+<head>
+    <title>test</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="list.js"></script>
+    <script src="add_list.js"></script>
+    <style>
+        span {
+            color: #e8e8e8;
+        }
+        
+        li {
+            list-style: none;
+        }
+        
+        .table {
+            display: flex;
+        }
+        
+        .table div ul {
+            display: table;
+            table-layout: fixed;
+            margin: 10px 0;
+            padding: 0;
+            border: 0;
+            outline: 0;
+            vertical-align: baseline;
+        }
+        
+        .table-first-column {
+            flex-direction: column;
+            padding: 5px 15px 5px 2px;
+            margin-right: 0;
+            border: 1px solid #ccc;
+            background-color: #e8e8e8;
+        }
+        
+        .table-column {
+            flex-direction: column;
+            padding: 5px 15px 5px 2px;
+            margin-right: 0;
+            border: 1px solid #ccc;
+        }
+        
+        .rank {
+            font-weight: bold;
+            font-family: Arial;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="keys"></div>
+    <div id="result"></div>
+    <script>
+        var blackList = ["ァ", "ィ", "ゥ", "ェ", "ォ", "ッ", "ヂ", "ヅ", "ャ", "ュ", "ョ", "ヮ", "ヰ", "ヱ", "ヲ", "ン"];
+
+        init();
+
+        function init() {
+            console.log("init");
+            add_list.forEach(e => {
+                e.yomi = e.yomi.replace(/[ぁ-ん]/g, function(s) {
+                    return String.fromCharCode(s.charCodeAt(0) + 0x60);
+                });
+                list.push(e);
+            });
+            for (var key = "ァ"; key != "ン"; key = String.fromCharCode(key.charCodeAt(0) + 1)) {
+                if (blackList.find(e => e == key)) {
+                    continue;
+                }
+                $("#keys").append(key + " ");
+                for (var len = 2; len < 31; len++) {
+                    //
+                    console.log(key + len);
+                    if (existChk(key, len)) {
+                        $("#keys").append($("<a>", {
+                            text: "(" + len + ")",
+                            title: key + "(" + len + ")",
+                            href: 'javascript: searchThenUpdate("' + key + '",' + len + ")"
+                        }));
+                    } else {
+                        //$("#keys").append("(" + len + ")");
+                        $("#keys").append($("<span>", {
+                            text: "(" + len + ")"
+                        }));
+                    }
+                    $("#keys").append(" / ");
+                }
+                $("#keys").append($("<br>"));
+            }
+        }
+
+        function searchThenUpdate(key, len) {
+            $("#result").html("");
+            var res = search(key, len);
+            if (res.length > 0) {
+                res.forEach(e => {
+                    $("#result").append(e.title + " / " + e.yomi);
+                    $("#result").append($("<br>"));
+                });
+            }
+        }
+
+        function existChk(key, len) {
+            var res = list.find(e => {
+                return e.len == len && e.yomi.charAt(0) == key;
+            });
+            return res != null;
+        }
+
+        function search(key, len) {
+            var res = list.filter(e => {
+                return e.len == len && e.yomi.charAt(0) == key;
+            });
+            return res;
+        }
+    </script>
+</body>
+
+</html>
